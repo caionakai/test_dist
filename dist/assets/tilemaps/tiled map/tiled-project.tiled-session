@@ -1,0 +1,37 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "RPG Nature Tileset.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "RPG Nature Tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.tmx": {
+            "scale": 1.3240625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 188.81283927307058,
+                "y": 320.2265754071277
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/kaioe/Downloads",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 15,
+    "openFiles": [
+        "RPG Nature Tileset.tsx",
+        "map.tmx"
+    ],
+    "project": "tiled-project.tiled-project",
+    "recentFiles": [
+        "map.tmx",
+        "RPG Nature Tileset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
